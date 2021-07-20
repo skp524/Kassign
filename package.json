@@ -13,7 +13,7 @@
     "@react-native-community/async-storage": "^1.11.0",
     "@react-native-community/masked-view": "^0.1.10",
     "react": "16.13.1",
-    "react-native": "0.63.2",
+    "react-native": "0.64.1",
     "react-native-gesture-handler": "^1.7.0",
     "react-native-password-strength-checker": "^1.0.13",
     "react-native-reanimated": "^1.10.1",
